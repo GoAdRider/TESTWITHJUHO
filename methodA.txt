@@ -1,2 +1,5 @@
-public boid methodA(){
+private void methodB(String A){
+    for(int i : list){
+       system.out.print(i);
+    }
 }
