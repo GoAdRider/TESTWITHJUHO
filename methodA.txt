@@ -1,5 +1,5 @@
-private void methodB(String A){
-    for(int i : list){
-       system.out.print(i);
+private void methodA(String A){
+    for(A : list){
+       system.out.print(A);
     }
 }
